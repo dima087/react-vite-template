@@ -1,0 +1,15 @@
+.hello {
+  display: grid;
+  gap: 16px;
+  justify-items: center;
+  margin-top: 24px;
+}
+
+.text {
+  color: #61dafb;
+  max-width: 520px;
+}
+
+.button {
+  min-width: 180px;
+}
